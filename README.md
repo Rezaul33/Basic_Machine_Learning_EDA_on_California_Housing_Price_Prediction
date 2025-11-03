@@ -1,4 +1,7 @@
-# California Housing Price Prediction
+# California Housing Price Prediction🏠📊
+
+[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)](https://jupyter.org/)
 
 This project implements and compares different regression models to predict housing prices in California using the California Housing dataset from scikit-learn.
 
@@ -121,6 +124,7 @@ Rezaul Islam. [Linkedin](https://www.linkedin.com/in/md-rezaul-islam-cse/)
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+
 
 
 
