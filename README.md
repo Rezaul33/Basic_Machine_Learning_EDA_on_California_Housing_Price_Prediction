@@ -116,11 +116,11 @@ Three regression models were implemented and compared:
 
 ## Author
 
-Rezaul Islam[https://www.linkedin.com/in/md-rezaul-islam-cse/]
+Rezaul Islam. [Linkedin](https://www.linkedin.com/in/md-rezaul-islam-cse/)
 
 ## License
 
-
 This project is open source and available under the [MIT License](LICENSE).
+
 
 
