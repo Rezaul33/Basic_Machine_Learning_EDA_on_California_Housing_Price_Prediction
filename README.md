@@ -42,7 +42,7 @@ The project explores three different regression models:
 ## Folder Structure
 
 ```
-EDA_on_California_Housing_Price_Prediction/
+Basic_Machine_Learning_EDA_on_California_Housing_Price_Predictio/
 │
 ├── Notebook.ipynb          # Main analysis notebook
 ├── README.md              # Project documentation
@@ -66,8 +66,7 @@ The dataset includes the following features:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/california-housing-prediction.git
-cd california-housing-prediction
+git clone https://github.com/Rezaul33/Basic_Machine_Learning_EDA_on_California_Housing_Price_Prediction
 ```
 
 2. Create a virtual environment (optional but recommended):
@@ -115,5 +114,6 @@ Three regression models were implemented and compared:
 Rezaul Islam
 
 ## License
+
 
 This project is open source and available under the [MIT License](LICENSE).
