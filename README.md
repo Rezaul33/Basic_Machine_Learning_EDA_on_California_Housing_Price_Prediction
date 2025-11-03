@@ -9,6 +9,11 @@ The project explores three different regression models:
 - Ridge Regression
 - Lasso Regression
 
+### Discussion
+---
+
+The analysis of California housing prices using three different regression models - Simple Linear Regression, Ridge Regression, and Lasso Regression - revealed several interesting insights. The models were trained on standardized data with an 80-20 train-test split, using eight features from the California housing dataset. All three models demonstrated relatively comparable performance, with R-squared values suggesting they could explain approximately 60% of the variance in housing prices. The Simple Linear Regression model provided a baseline performance, while the regularized models (Ridge and Lasso) offered slight improvements in prediction accuracy. The RMSE values indicated that the models' predictions deviated by several thousand dollars from actual housing prices, which is reasonable given the complexity of real estate valuation. Notably, Lasso regression's feature coefficients highlighted which housing attributes had the strongest influence on price predictions, with some coefficients reduced to near-zero, effectively performing feature selection. Ridge regression, while maintaining all features, helped prevent overfitting by constraining coefficient sizes. The models' MAE values provided a more interpretable measure of prediction error in the original price scale. This analysis demonstrates that while linear models can capture significant housing price patterns, there remain unaccounted factors in California's housing market that influence price variations.
+
 ## Variable Index
 
 ### Input Variables (X)
@@ -117,3 +122,4 @@ Rezaul Islam
 
 
 This project is open source and available under the [MIT License](LICENSE).
+
